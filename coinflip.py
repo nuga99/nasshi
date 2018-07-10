@@ -1,4 +1,4 @@
-# Here is the 3rd challenge for Chapter 3 in 'Python Programming for the Absolute Beginner"
+# Here is the 2nd challenge for Chapter 3 in 'Python Programming for the Absolute Beginner"
 # Muhammad Hadi, 10th of July 2018
 # If there's anything the same between mine of other(s), I'm terribly sorry.
 
